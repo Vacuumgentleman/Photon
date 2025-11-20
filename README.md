@@ -82,7 +82,7 @@ principles:
 
 ## How to Run
 
-steps:
+
   - Abrir la escena principal del tutorial.
   - Configurar tu AppID en Photon Fusion (PhotonAppSettings).
   - Ejecutar el proyecto desde Unity.
@@ -102,9 +102,4 @@ steps:
 
 ---
 
-## Author
-name: "Sebastian Gravini"
 
----
-
-repository: "https://github.com/your-user/photon-fusion2-tutorial-project"
